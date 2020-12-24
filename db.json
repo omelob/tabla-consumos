@@ -1,9 +1,11 @@
 {
-  "posts":[
+  "entradas":[
     {
       "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "nombre": "TV Samsung 40 pulgadas",
+      "potencia" : 12,
+      "uso": 10,
+      "consumoE": 1200 
     }
   ],
   "comments" : [
