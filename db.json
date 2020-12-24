@@ -6,6 +6,13 @@
       "potencia" : 12,
       "uso": 10,
       "consumoE": 1200 
+    },
+    {
+      "nombre": "8 Bombillas de 12w",
+      "potencia": 96,
+      "uso": 4,
+      "consumoE": 384,
+      "id": 1
     }
   ],
   "comments" : [
